@@ -22,4 +22,22 @@ You will need the `OPENAI_API_KEY` saved in an `.env` file in the same directory
 
 And install the dependencies. 
 
-## UI
+## UI 
+
+Need to figure out:
+
+What would the UI for building such agents look like? [Agenthub.dev](https://www.agenthub.dev/), [Langflow.org](https://www.langflow.org/)?
+
+How does the agent gets the data? csv, googlesheet, database access?
+
+How does the agent send emails?
+
+How do we make sure the Customs Rules and Regulations are the most recent and the LLM knows about it? Use Knowledge graph? RAG? 
+
+Finetune the LLM on entriprise emails data?
+
+Measure the margin of error.
+
+Including a human in loop?
+
+Implement image recognition for Item information.
