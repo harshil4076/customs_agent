@@ -14,3 +14,12 @@ Following is an example of a workflow that the agent can follow.
     3. The email should include the customer care number.
 - Send emails to customers.
 
+## Running the jupyter notebooks
+
+CLone the repo.
+
+You will need the `OPENAI_API_KEY` saved in an `.env` file in the same directory.
+
+And install the dependencies. 
+
+## UI
