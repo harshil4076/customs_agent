@@ -34,10 +34,11 @@ How does the agent send emails?
 
 How do we make sure the Customs Rules and Regulations are the most recent and the LLM knows about it? Use Knowledge graph? RAG? 
 
-Finetune the LLM on entriprise emails data?
+Finetune the LLM on enterprise emails data?
 
 Measure the margin of error.
 
 Including a human in loop?
 
 Implement image recognition for Item information.
+
